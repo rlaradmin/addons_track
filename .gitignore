@@ -7,3 +7,11 @@
 # Ignorar archivos de sistema y claves
 .DS_Store
 .env
+.xlsx
+
+# Ignorar el directorio completo 'supports'
+supports/
+
+# Ignorar archivos temporales generados por la terminal
+*.xlsx
+*.json
